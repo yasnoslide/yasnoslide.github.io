@@ -524,10 +524,11 @@
               "font-style": "italic"
             },
             "H1": {
-              "color": "#3e00e2"
+              "color": "#3e00e2",
+              "text-align": "left"
             },
             "P": {
-              "color": "#ffffff",
+              "color": "#333333",
               "text-align": "left"
             }
           },
