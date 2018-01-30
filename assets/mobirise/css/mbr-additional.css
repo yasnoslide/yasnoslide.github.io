@@ -1716,7 +1716,7 @@ body {
 .cid-qIb8WrhZoL {
   padding-top: 135px;
   padding-bottom: 30px;
-  background-color: #efefef;
+  background-color: #232323;
 }
 .cid-qIb8WrhZoL h1 {
   color: #616161;
@@ -1730,16 +1730,16 @@ body {
   font-style: italic;
 }
 .cid-qIb8WrhZoL H1 {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-qIb8WrhZoL P {
-  color: #333333;
+  color: #c1c1c1;
   text-align: left;
 }
 .cid-qIb5Fvy0wS {
   padding-top: 0px;
   padding-bottom: 135px;
-  background-color: #efefef;
+  background-color: #232323;
 }
 .cid-qIb5Fvy0wS .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -1795,50 +1795,6 @@ body {
   opacity: 0.9;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-}
-.cid-qIbwP9ZYzS {
-  padding-top: 135px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qIbwP9ZYzS h1 {
-  color: #616161;
-}
-.cid-qIbwP9ZYzS h2,
-.cid-qIbwP9ZYzS h3,
-.cid-qIbwP9ZYzS p {
-  color: #767676;
-}
-.cid-qIbwP9ZYzS .mbr-section-subtitle {
-  font-style: italic;
-}
-.cid-qIbwP9ZYzS H1 {
-  color: #232323;
-  text-align: center;
-}
-.cid-qIbwP9ZYzS P {
-  color: #333333;
-  text-align: center;
-}
-.cid-qIbwYe3n29 {
-  padding-top: 0px;
-  padding-bottom: 105px;
-  background-color: #ffffff;
-}
-.cid-qIbwYe3n29 h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qIbwYe3n29 p {
-  color: #767676;
-  text-align: left;
-}
-.cid-qIbwYe3n29 .card-box {
-  padding-top: 2rem;
-}
-.cid-qIbwYe3n29 .card-wrapper {
-  height: 100%;
 }
 .cid-qI9GsL5sEy {
   padding-top: 135px;
@@ -1939,6 +1895,50 @@ body {
 }
 .cid-qI93y8cZF8 .price-figure SPAN {
   color: #3e00e2;
+}
+.cid-qIbwP9ZYzS {
+  padding-top: 135px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qIbwP9ZYzS h1 {
+  color: #616161;
+}
+.cid-qIbwP9ZYzS h2,
+.cid-qIbwP9ZYzS h3,
+.cid-qIbwP9ZYzS p {
+  color: #767676;
+}
+.cid-qIbwP9ZYzS .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-qIbwP9ZYzS H1 {
+  color: #232323;
+  text-align: center;
+}
+.cid-qIbwP9ZYzS P {
+  color: #333333;
+  text-align: center;
+}
+.cid-qIbwYe3n29 {
+  padding-top: 0px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-qIbwYe3n29 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qIbwYe3n29 p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qIbwYe3n29 .card-box {
+  padding-top: 2rem;
+}
+.cid-qIbwYe3n29 .card-wrapper {
+  height: 100%;
 }
 .cid-qI8U6lLymA {
   background-image: url("../../../assets/images/christopher-burns-471173-edited-2-1800x923.jpg");
